@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device -->
+    <project name="wiko-repo/android_device_wiko_s8073" path="device/wiko/s8073" revision="ics" />
+    <project name="wiko-repo/android_vendor_wiko_s8073" path="vendor/wiko/s8073" revision="ics" />
+    <project name="wiko-repo/android_kernel_wiko_s8073" path="kernel/wiko/s8073" revision="master" />
+</manifest>
